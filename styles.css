@@ -1,0 +1,31 @@
+/** {*/
+/*    border: solid red 1px;*/
+/*}*/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+.sketch {
+    width: 3px;
+    height: 3px;
+    margin: 1px;
+    border: solid black 1px;
+
+}
+.trail {
+    background: blue;
+}
+.body {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.draw {
+    margin-top: 20px;
+}
+.painted {
+    background: blue;
+}
