@@ -30,7 +30,7 @@ button {
     height: 300px;
 }
 .calculatorScreen {
-    width: 390px;
+    width: 391px;
     height: 100px;
     display: flex;
     flex-direction: column;
